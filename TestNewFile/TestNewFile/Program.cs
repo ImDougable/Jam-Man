@@ -12,7 +12,7 @@ namespace TestNewFile
         {
             //This is a test to seeing if I can
             //add a file from Visual Studio.
-            string myString = "jibber jabber";
+            string myString = "jibber jabbery";
 
 
             Console.WriteLine(myString);
