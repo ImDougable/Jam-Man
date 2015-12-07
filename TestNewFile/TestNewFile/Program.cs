@@ -14,10 +14,7 @@ namespace TestNewFile
             //add a file from Visual Studio.
             string myString = "jibber jabber";
 
-            for (int i = 0; i < 10; i++)
-            {
-                Console.WriteLine()
-            }
+
             Console.WriteLine(myString);
             Console.ReadLine();
         }
