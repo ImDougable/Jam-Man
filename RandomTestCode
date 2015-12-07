@@ -1,0 +1,19 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace RandomTestProject
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            //Just a file for checking uploading capabilities to GitHuB
+            string myMessage = "Hello Sard!";
+            Console.WriteLine(myMessage);
+            Console.ReadLine();
+        }
+    }
+}
